@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="tasadofi",
-    version="1.0.0",
+    version="1.0.1",
     author="Vojtech Molek",
     description="Python random numbers",
     long_description=open("README.md").read(),
